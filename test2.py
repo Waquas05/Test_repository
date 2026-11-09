@@ -1,1 +1,1 @@
-print("Thihs is the second file for testing branching")
+print("This is the second file for testing branching")
